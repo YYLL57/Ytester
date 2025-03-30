@@ -1,0 +1,3 @@
+这里放Step调用的子VI
+
+Put the sub VI called by Step here!

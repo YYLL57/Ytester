@@ -1,0 +1,14 @@
+这里放【“SMART_”+“同名”】VI用于支持STEP的SmartSetting功能！
+此SmartSettingVIS文件夹请勿修改名称、移动、删除！
+通过SMART_xxx.vit模板方便创建！
+
+-----------
+
+Here we put 'SMART_'+'same name' VI to support the SmartSetting function of STEP!
+Please do not modify the name, move, or delete this SmartSettingVIS folder!
+Easy creation through SMART_ xxx. vit template!
+
+
+
+
+
